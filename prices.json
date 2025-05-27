@@ -1,1 +1,214 @@
-
+{
+  "circlek-el": {
+    "provider": "Circle K",
+    "price_type": "Ladepris",
+    "updated": "2025-05-27 16:13:40",
+    "prices": {
+      "Normal": "3.59",
+      "Hurtig": "3.59",
+      "Lyn": "3.59"
+    }
+  },
+  "circlek-lp": {
+    "provider": "Circle K",
+    "price_type": "Listepris",
+    "updated": "2025-05-27 16:13:53",
+    "prices": {
+      "miles 95": "14.79",
+      "miles+ 95": "15.69",
+      "miles Diesel": "13.59",
+      "miles+ Diesel": "14.49",
+      "HVO 100": "15.10",
+      "Adblue": "7.99"
+    }
+  },
+  "circlek-pp": {
+    "provider": "Circle K",
+    "price_type": "Pumpepris",
+    "updated": "2025-05-27 16:14:05",
+    "prices": {
+      "miles 95": "13.59",
+      "miles+ 95": "14.49",
+      "miles Diesel": "12.39",
+      "miles+ Diesel": "13.29"
+    }
+  },
+  "clever-el": {
+    "provider": "Clever",
+    "price_type": "Ladepris",
+    "updated": "2025-05-27 16:14:19",
+    "prices": {
+      "Normal": "3.49",
+      "Hurtig": "3.49",
+      "Lym": "4.99"
+    }
+  },
+  "eon-el": {
+    "provider": "E.ON",
+    "price_type": "Ladepris",
+    "updated": "2025-05-27 16:14:34",
+    "prices": {
+      "Normal": "2.95",
+      "Hurtig": "3.95",
+      "Lyn": "3.95"
+    }
+  },
+  "f24-el": {
+    "provider": "F24",
+    "price_type": "Ladepris",
+    "updated": "2025-05-27 16:14:50",
+    "prices": {
+      "Normal": "3.75",
+      "Hurtig": "3.75",
+      "Lyn": "3.75"
+    }
+  },
+  "f24-pp": {
+    "provider": "F24",
+    "price_type": "Pumpepris",
+    "updated": "2025-05-27 16:15:03",
+    "prices": {
+      "GoEasy 95 E10": "13.49",
+      "GoEasy 95 Extra E5": "14.56",
+      "GoEasy Diesel": "12.29",
+      "GoEasy Diesel Extra": "13.09"
+    }
+  },
+  "goon-lp": {
+    "provider": "Go'on",
+    "price_type": "Listepris",
+    "updated": "2025-05-27 16:15:16",
+    "prices": {
+      "Blyfri 95": "14.79",
+      "Diesel": "13.59"
+    }
+  },
+  "goon-pp": {
+    "provider": "Go'on",
+    "price_type": "Pumpepris",
+    "updated": "2025-05-27 14:15:35",
+    "prices": {
+      "Blyfri 92": "13.46",
+      "Blyfri 95": "13.49",
+      "Diesel": "12.29"
+    }
+  },
+  "ingo-pp": {
+    "provider": "Ingo",
+    "price_type": "Pumpepris",
+    "updated": "2025-05-27 16:15:47",
+    "prices": {
+      "Benzin 95": "13.49",
+      "UPGRADE 95": "13.98",
+      "Diesel": "12.29"
+    }
+  },
+  "oil-lp": {
+    "provider": "Oil!",
+    "price_type": "Listepris",
+    "updated": "2025-05-27 16:16:00",
+    "prices": {
+      "Blyfri 95 E10": "14.79",
+      "Diesel": "13.59",
+      "BIO100 Diesel": "14.59"
+    }
+  },
+  "oil-pp": {
+    "provider": "Oil!",
+    "price_type": "Pumpepris",
+    "updated": "2025-05-27 16:16:13",
+    "prices": {
+      "Blyfri 95 E10": "13.49",
+      "Diesel": "12.29",
+      "BIO100 Diesel": "13.29",
+      "Adblue": "8.29"
+    }
+  },
+  "ok-el": {
+    "provider": "OK",
+    "price_type": "Ladepris",
+    "updated": "2025-05-27 16:16:26",
+    "prices": {
+      "Normal": "2.49",
+      "Hurtig": "2.99",
+      "Lyn": "3.49"
+    }
+  },
+  "ok-lp": {
+    "provider": "OK",
+    "price_type": "Listepris",
+    "updated": "2025-05-27 16:16:39",
+    "prices": {
+      "Blyfri 95": "14.69",
+      "Oktan 100": "16.66",
+      "Diesel": "13.49"
+    }
+  },
+  "ok-pp": {
+    "provider": "OK",
+    "price_type": "Pumpepris",
+    "updated": "2025-05-27 16:16:52",
+    "prices": {
+      "Blyfri 95": "13.49",
+      "Oktan 100": "15.46",
+      "Diesel": "12.29"
+    }
+  },
+  "q8-el": {
+    "provider": "Q8",
+    "price_type": "Ladepris",
+    "updated": "2025-05-27 16:17:06",
+    "prices": {
+      "Normal": "3.09",
+      "Hurtig": "3.09",
+      "Lyn": "3.59"
+    }
+  },
+  "q8-lp": {
+    "provider": "Q8",
+    "price_type": "Listepris",
+    "updated": "2025-05-27 16:17:19",
+    "prices": {
+      "GoEasy 95 E10": "14.79",
+      "GoEasy Extra E5": "15.87",
+      "GoEasy Diesel": "13.59",
+      "GoEasy Diesel Extra": "14.39",
+      "Neste MY (HVO100)": "18.85"
+    }
+  },
+  "q8-pp": {
+    "provider": "Q8",
+    "price_type": "Pumpepris",
+    "updated": "2025-05-27 16:17:31",
+    "prices": {
+      "GoEasy 95 E10": "13.59",
+      "GoEasy 95 Extra E5": "14.66",
+      "GoEasy Diesel": "12.39",
+      "GoEasy Diesel Extra": "13.19"
+    }
+  },
+  "shell-el": null,
+  "shell-lp": null,
+  "unox-lp": {
+    "provider": "UnoX",
+    "price_type": "Listepris",
+    "updated": "2025-05-27 16:19:29",
+    "prices": {
+      "Blyfri 95 E10": "14.79",
+      "Blyfri 100": "16.69",
+      "Diesel": "13.59",
+      "Bio100 HVO": "19.15",
+      "Adblue": "8.83"
+    }
+  },
+  "unox-pp": {
+    "provider": "UnoX",
+    "price_type": "Pumpepris",
+    "updated": "2025-05-27 16:19:42",
+    "prices": {
+      "Blyfri 95 E10": "13.49",
+      "Blyfri 100": "15.39",
+      "Diesel": "12.29"
+    }
+  }
+}
